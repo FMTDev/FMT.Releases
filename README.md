@@ -1,7 +1,5 @@
 ﻿<div align=center>
 
-![image](https://github.com/paulov-t/FrostbiteModdingTool/assets/7080439/e678e18f-849e-49a4-befe-e63a25e94e85)
-
 </div>
 
 ---
@@ -19,8 +17,6 @@ The Frostbite Modding Tool (FMT) is a tool to create mods for FIFA, Madden and o
 
   ![TotalDownloads][downloads-total-shield]
   ![LatestDownloads][downloads-latest-shield]
-
-  [![.CI](https://github.com/paulov-t/FrostbiteModdingTool/actions/workflows/CI.yml/badge.svg)](https://github.com/FMTDev/FMT.Releases/actions/workflows/CI.yml) 
 
 </div>
 
