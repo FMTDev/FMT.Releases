@@ -43,32 +43,32 @@ This tool is used & developed for a hobby. It is a great suite of code to learn 
 - [CSharpImageLibrary](https://github.com/KFreon/CSharpImageLibrary) - Exceptionally helpful in creating a library for importing/exporting in game images & textures
 
 ## Supported Games
-### 100% supported
-- FIFA 21
 
-### 99% supported - Minor issues
-- FIFA 22 (Mesh Import is not working as expected, use [FIFA Editor Tool](https://www.fifaeditortool.com/) to create these mods instead)
-- FIFA 23 (Mesh Import is not working as expected, use [FIFA Editor Tool](https://www.fifaeditortool.com/) to create these mods instead)
-- EA Sports FC 24 (Mesh Import is not working as expected, use [FIFA Editor Tool](https://www.fifaeditortool.com/) to create these mods instead)
-
-### 25% supported - Likely missing or broken major features
-- MADDEN 21
-
-### Read Only Support
-- Dead Space (Read only)
-- EA Sports PGA Tour (Read only)
-- FIFA 17 (Read only)
-- Madden NFL 23 (Read only)
-- Madden NFL 24 (Read only)
-- NFS Unbound (Read only)
-- Star Wars Squadrons (Read only)
-
-### Potential to be supported (Plugins, SDK and Profiles may exist but not tested)
-- Battlefield 4
-- Battlefield 5
-- Battlefield 2042
-- FIFA 18
-- FIFA 19
-- FIFA 20
-- MADDEN 20
-- MADDEN 22
+| Game         | Platform     | Supported    | Notes           |
+|--------------|--------------|--------------|-----------------|
+| Dead Space   | PC           | 50%          | READ ONLY       |
+| FC 24        | PC           | 99%          | x Meshes Import |
+| FC 24        | Switch       | 50%          | x Meshes Import, Some textures broken |
+| FC 24        | PS4          | 50%          | x Meshes Import, Some textures broken |
+| FC 25        | PC           | 0%           | Game not released |
+| FC 25        | Switch       | 0%           | Game not released |
+| FC 25        | PS4          | 0%           | Game not released |
+| FIFA 17      | PC           | 50%          | READ ONLY       |
+| FIFA 18      | PC           | 0%           | NO PROFILE      |
+| FIFA 19      | PC           | 0%           | NO PROFILE      |
+| FIFA 20      | PC           | 0%           | NO PROFILE      |
+| FIFA 21      | PC           | 100%         |                 |
+| FIFA 22      | PC           | 99%          | x Meshes Import |
+| FIFA 23      | PC           | 99%          | x Meshes Import |
+| MADDEN 21    | PC           | 25%          | x Broken        |
+| MADDEN 22    | PC           | 0%           | NO PROFILE      |
+| MADDEN 23    | PC           | 0%           | NO PROFILE      |
+| MADDEN 24    | PC           | 0%           | NO PROFILE      |
+| MADDEN 25    | PC           | 0%           | Game not released |
+| NFS Unbound  | PC           | 50%          | READ ONLY       |
+| NHL 22       | PS4          | 50%          | READ ONLY       |
+| NHL 23       | PS4          | 50%          | READ ONLY       |
+| NHL 24       | PS4          | 50%          | READ ONLY       |
+| NHL 25       | PS4          | 50%          | Game not released |
+| PGA Tour     | PC           | 50%          | READ ONLY       |
+| SWSquadrons  | PC           | 50%          | READ ONLY       |
