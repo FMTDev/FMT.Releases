@@ -41,8 +41,8 @@ The Frostbite Modding Tool (FMT) is a tool to create mods for EA / DICE Frostbit
 |--------------|--------------|--------------|-----------------|
 | Dead Space   | PC           | 50%          | READ ONLY       |
 | FC 24        | PC           | 99%          | x Meshes Import |
-| FC 24        | Switch       | 50%          | x Meshes Import, Some textures broken |
-| FC 24        | PS4          | 50%          | x Meshes Import, Some textures broken |
+| FC 24        | Switch       | 50%          | EXPERIMENTAL    |
+| FC 24        | PS4          | 50%          | EXPERIMENTAL    |
 | FC 25        | PC           | 0%           | Game not released |
 | FC 25        | Switch       | 0%           | Game not released |
 | FC 25        | PS4          | 0%           | Game not released |
@@ -59,9 +59,9 @@ The Frostbite Modding Tool (FMT) is a tool to create mods for EA / DICE Frostbit
 | MADDEN 24    | PC           | 0%           | NO PROFILE      |
 | MADDEN 25    | PC           | 0%           | Game not released |
 | NFS Unbound  | PC           | 50%          | READ ONLY       |
-| NHL 22       | PS4          | 50%          | READ ONLY       |
-| NHL 23       | PS4          | 50%          | READ ONLY       |
-| NHL 24       | PS4          | 50%          | READ ONLY       |
+| NHL 22       | PS4          | 50%          | EXPERIMENTAL    |
+| NHL 23       | PS4          | 50%          | EXPERIMENTAL    |
+| NHL 24       | PS4          | 50%          | EXPERIMENTAL    |
 | NHL 25       | PS4          | 50%          | Game not released |
 | PGA Tour     | PC           | 50%          | READ ONLY       |
 | SWSquadrons  | PC           | 50%          | READ ONLY       |
