@@ -62,6 +62,6 @@ The Frostbite Modding Tool (FMT) is a tool to create mods for EA / DICE Frostbit
 | NHL 22       | PS4          | 50%          | EXPERIMENTAL    |
 | NHL 23       | PS4          | 50%          | EXPERIMENTAL    |
 | NHL 24       | PS4          | 50%          | EXPERIMENTAL    |
-| NHL 25       | PS4          | 50%          | Game not released |
+| NHL 25       | PS4          | 0%           | Game not released |
 | PGA Tour     | PC           | 50%          | READ ONLY       |
 | SWSquadrons  | PC           | 50%          | READ ONLY       |
