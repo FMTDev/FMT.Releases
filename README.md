@@ -43,9 +43,9 @@ The Frostbite Modding Tool (FMT) is a tool to create mods for EA / DICE Frostbit
 | FC 24        | PC           | 99%          | x Meshes Import |
 | FC 24        | Switch       | 50%          | EXPERIMENTAL    |
 | FC 24        | PS4          | 50%          | EXPERIMENTAL    |
-| FC 25        | PC           | 0%           | Game not released |
-| FC 25        | Switch       | 0%           | Game not released |
-| FC 25        | PS4          | 0%           | Game not released |
+| FC 25        | PC           | 0%           | TBD - 27 Sept 24 |
+| FC 25        | Switch       | 0%           | TBD - 27 Sept 24 |
+| FC 25        | PS4          | 0%           | TBD - 27 Sept 24 |
 | FIFA 17      | PC           | 50%          | READ ONLY       |
 | FIFA 18      | PC           | 0%           | NO PROFILE      |
 | FIFA 19      | PC           | 0%           | NO PROFILE      |
@@ -57,7 +57,7 @@ The Frostbite Modding Tool (FMT) is a tool to create mods for EA / DICE Frostbit
 | MADDEN 22    | PC           | 0%           | NO PROFILE      |
 | MADDEN 23    | PC           | 0%           | NO PROFILE      |
 | MADDEN 24    | PC           | 0%           | NO PROFILE      |
-| MADDEN 25    | PC           | 0%           | Game not released |
+| MADDEN 25    | PC           | 0%           | TBD - 16 Aug 24 |
 | NFS Unbound  | PC           | 50%          | READ ONLY       |
 | NHL 22       | PS4          | 50%          | EXPERIMENTAL    |
 | NHL 23       | PS4          | 50%          | EXPERIMENTAL    |
