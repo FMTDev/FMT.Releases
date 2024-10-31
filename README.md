@@ -40,11 +40,12 @@ The Frostbite Modding Tool (FMT) is a tool to create mods for EA / DICE Frostbit
 | Game         | Platform     | Supported    | Notes           |
 |--------------|--------------|--------------|-----------------|
 | Dead Space   | PC           | 50%          | READ ONLY       |
+| Dragon Age:VG| PC           | 0%           | TBD - 01 Nov 24 |
 | FC 24        | PC           | 100%         |                 |
 | FC 24        | Switch       | 50%          | EXPERIMENTAL    |
 | FC 24        | PS4          | 50%          | EXPERIMENTAL    |
-| FC 25        | PC           | 50%          | EXPERIMENTAL    |
-| FC 25        | Switch       | 0%           | TBD - 27 Sept 24 |
+| FC 25        | PC           | 99%          | Next Release :) |
+| FC 25        | Switch       | 0%           | TBD - Files Required |
 | FC 25        | PS4          | 50%          | EXPERIMENTAL    |
 | FIFA 17      | PC           | 50%          | READ ONLY       |
 | FIFA 18      | PC           | 0%           | NO PROFILE      |
