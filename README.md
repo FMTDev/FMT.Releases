@@ -15,14 +15,10 @@ The Frostbite Modding Tool (FMT) is a tool to create mods for EA / DICE Frostbit
 
 <div align="center">
 
-  ![TotalDownloads][downloads-total-shield]
   ![LatestDownloads][downloads-latest-shield]
   ![Release][release-shield]
 
 </div>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[downloads-total-shield]: https://img.shields.io/github/downloads/FMTDev/FMT.Releases/total?style=for-the-badge
 
 [downloads-latest-shield]: https://img.shields.io/github/downloads/FMTDev/FMT.Releases/latest/total?style=for-the-badge
 
@@ -30,7 +26,7 @@ The Frostbite Modding Tool (FMT) is a tool to create mods for EA / DICE Frostbit
 
 ## Credits
 - EA Sports & DICE - Without their engine and suite of games, this tool and the addiction to modding them wouldnt exist. Many thanks to all those who develop it and Frostbite!
-- [@CadeEvs / Frosty Toolsuite](https://github.com/CadeEvs/FrostyToolsuite) development team. As of September 2022, Frosty Toolsuite is open source on [GitHub](https://github.com/CadeEvs/FrostyToolsuite). I highly recommend that tool for most Frostbite games.
+- [@CadeEvs / Frosty Toolsuite](https://github.com/CadeEvs/FrostyToolsuite) development team. As of September 2022, Frosty Toolsuite is open source on [GitHub](https://github.com/CadeEvs/FrostyToolsuite) but seems to be unmaintained? I would recommend that tool for most older Frostbite games.
 - [FIFA Editor Tool](https://www.fifaeditortool.com/) development team. This tool adds support to compile to FIFA Mod Manager *.fifamod files.
 - [DirectXTexNet](https://github.com/deng0/DirectXTexNet) - Used library and rewrote parts for latest Chunk File Collection texture import [LICENSE](https://raw.githubusercontent.com/deng0/DirectXTexNet/master/LICENSE)
 - [CSharpImageLibrary](https://github.com/KFreon/CSharpImageLibrary) - Exceptionally helpful in creating a library for importing/exporting in game images & textures
@@ -40,7 +36,7 @@ The Frostbite Modding Tool (FMT) is a tool to create mods for EA / DICE Frostbit
 | Game         | Platform     | Supported    | Notes           |
 |--------------|--------------|--------------|-----------------|
 | Dead Space   | PC           | 50%          | READ ONLY       |
-| Dragon Age:VG| PC           | 0%           | EXPERIMENTAL    |
+| Dragon Age:VG| PC           | 50%          | EXPERIMENTAL    |
 | FC 24        | PC           | 100%         |                 |
 | FC 24        | Switch       | 50%          | EXPERIMENTAL    |
 | FC 24        | PS4          | 50%          | EXPERIMENTAL    |
