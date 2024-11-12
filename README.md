@@ -7,7 +7,7 @@
 <div align=center style="text-align: center">
   
 <h1 style="text-align: center"> Frostbite Modding Tool </h1>
-The Frostbite Modding Tool (FMT) is a tool to create mods for EA / DICE Frostbite Engine games that can be deployed to multiple platforms.
+The Frostbite Modding Tool (FMT) is a tool that has been in development since 2019 to create mods for EA / DICE Frostbite Engine games that can be deployed to multiple platforms.
 
 </div>
 
