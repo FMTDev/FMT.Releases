@@ -1,10 +1,4 @@
-﻿<div align=center>
-
-</div>
-
----
-
-<div align=center style="text-align: center">
+﻿<div align=center style="text-align: center">
   
 <h1 style="text-align: center"> Frostbite Modding Tool </h1>
 The Frostbite Modding Tool (FMT) is a tool that has been in development since 2019 to create mods for EA / DICE Frostbite Engine games that can be deployed to multiple platforms.
@@ -23,6 +17,13 @@ The Frostbite Modding Tool (FMT) is a tool that has been in development since 20
 [downloads-latest-shield]: https://img.shields.io/github/downloads/FMTDev/FMT.Releases/latest/total?style=for-the-badge
 
 [release-shield]: https://img.shields.io/github/v/release/FMTDev/FMT.Releases?style=for-the-badge
+
+## Summary
+
+This tool enables you to modify game assets, graphics, font, text and tweak gameplay mechanics to generate mod files to use within the in-built mod manager. It supports the 
+deployments to multiple platforms including PC (with Registry Support for game detection), Playstation 4 and Nintento Switch.
+
+Join the growing community of modders and share your creations with the world. Don't forget to star Frostbite Modding Tool on GitHub. Stay updated with the latest releases and enhancements by following the repository.
 
 ## Credits
 - EA Sports & DICE - Without their engine and suite of games, this tool and the addiction to modding them wouldnt exist. Many thanks to all those who develop it and Frostbite!
@@ -62,3 +63,9 @@ The Frostbite Modding Tool (FMT) is a tool that has been in development since 20
 | NHL 25       | PS4          | 0%           | Game not released |
 | PGA Tour     | PC           | 50%          | READ ONLY       |
 | SWSquadrons  | PC           | 50%          | READ ONLY       |
+
+## Video Tutorials
+
+[![Watch the video](https://img.youtube.com/vi/Z-OLVsXOwyY/maxresdefault.jpg)](https://youtu.be/Z-OLVsXOwyY)
+
+#FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
