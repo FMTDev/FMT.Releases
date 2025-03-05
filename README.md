@@ -44,18 +44,18 @@ Join the growing community of modders and share your creations with the world. D
 | FC 25        | PC           | 100%         |                 |
 | FC 25        | Switch       | 50%          | EXPERIMENTAL    |
 | FC 25        | PS4          | 50%          | EXPERIMENTAL    |
-| FIFA 17      | PC           | 50%          | READ ONLY       |
+| FIFA 17      | PC           | 50%          | READ ONLY, [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.14.9170.27631)       |
 | FIFA 18      | PC           | 0%           | NO PROFILE      |
 | FIFA 19      | PC           | 0%           | NO PROFILE      |
 | FIFA 20      | PC           | 0%           | NO PROFILE      |
-| FIFA 21      | PC           | 100%         |                 |
+| FIFA 21      | PC           | 100%         | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.14.9170.27631)                |
 | FIFA 22      | PC           | 99%          | x Meshes Import |
-| FIFA 23      | PC           | 100%         |                 |
-| MADDEN 21    | PC           | 25%          | x Broken        |
+| FIFA 23      | PC           | 100%         | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.14.9170.27631)                |
+| MADDEN 21    | PC           | 0%           | NO PROFILE       |
 | MADDEN 22    | PC           | 0%           | NO PROFILE      |
 | MADDEN 23    | PC           | 0%           | NO PROFILE      |
 | MADDEN 24    | PC           | 0%           | NO PROFILE      |
-| MADDEN 25    | PC           | 50%          | READ ONLY       |
+| MADDEN 25    | PC           | 0%           | NO PROFILE      |
 | NFS Unbound  | PC           | 50%          | READ ONLY       |
 | NHL 22       | PS4          | 50%          | EXPERIMENTAL    |
 | NHL 23       | PS4          | 50%          | EXPERIMENTAL    |
@@ -64,8 +64,16 @@ Join the growing community of modders and share your creations with the world. D
 | PGA Tour     | PC           | 50%          | READ ONLY       |
 | SWSquadrons  | PC           | 50%          | READ ONLY       |
 
+## Discord
+
+[Join the little Discord server](https://discord.gg/zAUc6eHVS3)
+
 ## Video Tutorials
 
+### Making your own mods for FC 25
 [![Watch the video](https://img.youtube.com/vi/Z-OLVsXOwyY/maxresdefault.jpg)](https://youtu.be/Z-OLVsXOwyY)
+
+### Generating an SDK for a supported Profile
+[![Watch the video](https://img.youtube.com/vi/3LAIs9cAF8I/maxresdefault.jpg)](https://youtu.be/3LAIs9cAF8I)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
