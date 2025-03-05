@@ -70,10 +70,13 @@ Join the growing community of modders and share your creations with the world. D
 
 ## Video Tutorials
 
-### Making your own mods for FC 25
-[![Watch the video](https://img.youtube.com/vi/Z-OLVsXOwyY/maxresdefault.jpg)](https://youtu.be/Z-OLVsXOwyY)
-
 ### Generating an SDK for a supported Profile
 [![Watch the video](https://img.youtube.com/vi/3LAIs9cAF8I/maxresdefault.jpg)](https://youtu.be/3LAIs9cAF8I)
+
+### Installing Mods
+[![Watch the video](https://img.youtube.com/vi/Z-OLVsXOwyY/maxresdefault.jpg)](https://youtu.be/Z-OLVsXOwyY)
+
+### Making your own Mods for FC 25
+[![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
