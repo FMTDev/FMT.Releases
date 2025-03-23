@@ -79,6 +79,9 @@ Join the growing community of modders and share your creations with the world. D
 | FMT.Logging   | https://www.nuget.org/packages/FMT.Logging/ |
 | FMT.Models.Assets   | https://www.nuget.org/packages/FMT.Models.Assets/ |
 | FMT.PluginInterfaces   | https://www.nuget.org/packages/FMT.PluginInterfaces/ |
+| FMT.ProfileSystem   | https://www.nuget.org/packages/FMT.ProfileSystem/ |
+| FMT.Registry   | https://www.nuget.org/packages/FMT.Registry/ |
+| FMT.ServicesManagers   | https://www.nuget.org/packages/FMT.ServicesManagers/ |
 
 ## Video Tutorials
 
