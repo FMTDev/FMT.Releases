@@ -34,13 +34,15 @@ Join the growing community of modders and share your creations with the world. D
 
 ## Supported Games
 
+**24th March 2025: FMT is going through a major restructure and architecture process. This is so it can become a more open suite of Nuget Packages to enable other developers to make their own tools. As a consequence of this, some games will either lose support entirely or be supported again in the future. See this list below to know which release will work for your game**
+
 | Game         | Platform     | Supported    | Notes           |
 |--------------|--------------|--------------|-----------------|
-| Dead Space   | PC           | 50%          | READ ONLY       |
-| Dragon Age:VG| PC           | 50%          | EXPERIMENTAL    |
-| FC 24        | PC           | 100%         |                 |
-| FC 24        | Switch       | 50%          | EXPERIMENTAL    |
-| FC 24        | PS4          | 50%          | EXPERIMENTAL    |
+| Dead Space   | PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
+| Dragon Age:VG| PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
+| FC 24        | PC           | 100%         | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
+| FC 24        | Switch       | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
+| FC 24        | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | FC 25        | PC           | 100%         |                 |
 | FC 25        | Switch       | 50%          | EXPERIMENTAL    |
 | FC 25        | PS4          | 50%          | EXPERIMENTAL    |
@@ -56,13 +58,12 @@ Join the growing community of modders and share your creations with the world. D
 | MADDEN 23    | PC           | 0%           | NO PROFILE      |
 | MADDEN 24    | PC           | 0%           | NO PROFILE      |
 | MADDEN 25    | PC           | 0%           | NO PROFILE      |
-| NFS Unbound  | PC           | 50%          | READ ONLY       |
-| NHL 22       | PS4          | 50%          | EXPERIMENTAL    |
-| NHL 23       | PS4          | 50%          | EXPERIMENTAL    |
-| NHL 24       | PS4          | 50%          | EXPERIMENTAL    |
-| NHL 25       | PS4          | 0%           | Game not released |
-| PGA Tour     | PC           | 50%          | READ ONLY       |
-| SWSquadrons  | PC           | 50%          | READ ONLY       |
+| NFS Unbound  | PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
+| NHL 22       | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
+| NHL 23       | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
+| NHL 24       | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
+| PGA Tour     | PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
+| SWSquadrons  | PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 
 ## Discord
 
@@ -73,6 +74,7 @@ Join the growing community of modders and share your creations with the world. D
 | Name         | Url     |
 |--------------|--------------|
 | FMT.Db   | https://www.nuget.org/packages/FMT.Db/ |
+| FMT.Ebx   | https://www.nuget.org/packages/FMT.Ebx/ |
 | FMT.FileTools   | https://www.nuget.org/packages/FMT.FileTools/ |
 | FMT.Hash   | https://www.nuget.org/packages/FMT.Hash/ |
 | FMT.InitfsSupport   | https://www.nuget.org/packages/FMT.InitfsSupport/ |
