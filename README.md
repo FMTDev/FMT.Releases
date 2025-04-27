@@ -51,7 +51,7 @@ Join the growing community of modders and share your creations with the world. D
 | FIFA 19      | PC           | 0%           | NO PROFILE      |
 | FIFA 20      | PC           | 0%           | NO PROFILE      |
 | FIFA 21      | PC           | 100%         | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.14.9170.27631)                |
-| FIFA 22      | PC           | 99%          | x Meshes Import |
+| FIFA 22      | PC           | 75%          | NO MESH SUPPORT |
 | FIFA 23      | PC           | 100%         | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.14.9170.27631)                |
 | MADDEN 21    | PC           | 0%           | NO PROFILE       |
 | MADDEN 22    | PC           | 0%           | NO PROFILE      |
