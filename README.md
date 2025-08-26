@@ -46,6 +46,7 @@ Join the growing community of modders and share your creations with the world. D
 | FC 25        | PC           | 100%         |                 |
 | FC 25        | Switch       | 50%          | EXPERIMENTAL    |
 | FC 25        | PS4          | 50%          | EXPERIMENTAL    |
+| FC 26        | PC           | 50%          | EXPERIMENTAL    |
 | FIFA 17      | PC           | 50%          | READ ONLY       |
 | FIFA 18      | PC           | 0%           | NO PROFILE      |
 | FIFA 19      | PC           | 0%           | NO PROFILE      |
@@ -97,3 +98,4 @@ Join the growing community of modders and share your creations with the world. D
 [![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
+
