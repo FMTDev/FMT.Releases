@@ -67,6 +67,7 @@ Join the growing community of modders and share your creations with the world. D
 | NHL 23       | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | NHL 24       | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | PGA Tour     | PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
+| SKATE        | PC           | 0%           | ONLINE ONLY - NO PROFILE      |
 | SWSquadrons  | PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 
 ## Discord
@@ -101,5 +102,6 @@ Join the growing community of modders and share your creations with the world. D
 [![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
+
 
 
