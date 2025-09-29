@@ -46,7 +46,7 @@ Don't forget to star Frostbite Modding Tool on GitHub. Stay updated with the lat
 | FC 25        | PC           | 100%         |                 |
 | FC 25        | Switch       | 50%          | EXPERIMENTAL    |
 | FC 25        | PS4          | 50%          | EXPERIMENTAL    |
-| FC 26        | PC           | 50%          | EXPERIMENTAL / WORK IN PROGRESS |
+| FC 26        | PC           | 50%          | WORK IN PROGRESS |
 | FC 26        | PS4          | 0%           | NO PROFILE      |
 | FC 26        | Switch       | 0%           | NO PROFILE      |
 | FIFA 17      | PC           | 50%          | EXPERIMENTAL    |
@@ -61,7 +61,7 @@ Don't forget to star Frostbite Modding Tool on GitHub. Stay updated with the lat
 | MADDEN 23    | PC           | 0%           | NO PROFILE      |
 | MADDEN 24    | PC           | 0%           | NO PROFILE      |
 | MADDEN 25    | PC           | 0%           | NO PROFILE      |
-| MADDEN 26    | PC           | 50%          | READ ONLY / WORK IN PROGRESS     |
+| MADDEN 26    | PC           | 50%          | WORK IN PROGRESS - [Plugin is Open Source](https://github.com/FMTDev/FMT.Madden26Plugin) |
 | NFS Unbound  | PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | NHL 22       | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | NHL 23       | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
@@ -95,6 +95,7 @@ Don't forget to star Frostbite Modding Tool on GitHub. Stay updated with the lat
 [![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
+
 
 
 
