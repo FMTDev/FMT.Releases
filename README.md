@@ -77,6 +77,8 @@ Want bleeding edge tooling? Check out the [Releases](https://github.com/FMTDev/F
 
 | Name         | Url     |
 |--------------|--------------|
+| FMT.Compilers   | https://www.nuget.org/packages/FMT.Compilers/ |
+| FMT.Core   | https://www.nuget.org/packages/FMT.Core/ |
 | FMT.Db   | https://www.nuget.org/packages/FMT.Db/ |
 | FMT.Ebx   | https://www.nuget.org/packages/FMT.Ebx/ |
 | FMT.FileTools   | https://www.nuget.org/packages/FMT.FileTools/ |
@@ -98,6 +100,7 @@ Want bleeding edge tooling? Check out the [Releases](https://github.com/FMTDev/F
 [![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
+
 
 
 
