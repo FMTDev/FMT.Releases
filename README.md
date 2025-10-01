@@ -25,6 +25,9 @@ deployments to multiple platforms including PC (with Registry Support for game d
 
 Don't forget to star Frostbite Modding Tool on GitHub. Stay updated with the latest releases and enhancements by following the repository and [join the Discord server](https://discord.gg/zAUc6eHVS3).
 
+## Releases and Pre-Releases
+Want bleeding edge tooling? Check out the [Releases](https://github.com/FMTDev/FMT.Releases/releases) link to find all releases available including Pre-Releases (Beta).
+
 ## Credits
 - EA Sports & DICE - Without their engine and suite of games, this tool and the addiction to modding them wouldnt exist. Many thanks to all those who develop it and Frostbite!
 - [@CadeEvs / Frosty Toolsuite](https://github.com/CadeEvs/FrostyToolsuite) development team. As of September 2022, Frosty Toolsuite is open source on [GitHub](https://github.com/CadeEvs/FrostyToolsuite) but seems to be unmaintained? I would recommend that tool for most older Frostbite games.
@@ -95,6 +98,7 @@ Don't forget to star Frostbite Modding Tool on GitHub. Stay updated with the lat
 [![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
+
 
 
 
