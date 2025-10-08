@@ -89,6 +89,7 @@ Want bleeding edge tooling? Check out the [Releases](https://github.com/FMTDev/F
 | FMT.PluginInterfaces   | https://www.nuget.org/packages/FMT.PluginInterfaces/ | |
 | FMT.ProfileSystem   | https://www.nuget.org/packages/FMT.ProfileSystem/ | |
 | FMT.Registry   | https://www.nuget.org/packages/FMT.Registry/ | https://github.com/FMTDev/FMT.Registry |
+| FMT.Resources   | https://www.nuget.org/packages/FMT.Resources/ | |
 | FMT.ServicesManagers   | https://www.nuget.org/packages/FMT.ServicesManagers/ | |
 
 ## Video Tutorials
@@ -100,6 +101,7 @@ Want bleeding edge tooling? Check out the [Releases](https://github.com/FMTDev/F
 [![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
+
 
 
 
