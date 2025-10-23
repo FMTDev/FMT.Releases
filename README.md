@@ -53,8 +53,8 @@ Want bleeding edge tooling? Check out the [Releases](https://github.com/FMTDev/F
 | FC 25        | Switch       | 50%          | EXPERIMENTAL    |
 | FC 25        | PS4          | 50%          | EXPERIMENTAL    |
 | FC 26        | PC           | 50%          | WORK IN PROGRESS |
-| FC 26        | PS4          | 0%           | NO PROFILE      |
-| FC 26        | Switch       | 0%           | NO PROFILE      |
+| FC 26        | PS4          | 0%           | Unlikely due to New AntiTamper |
+| FC 26        | Switch       | 0%           | Unlikely due to New AntiTamper |
 | FIFA 17      | PC           | 50%          | EXPERIMENTAL    |
 | FIFA 18      | PC           | 0%           | NO PROFILE      |
 | FIFA 19      | PC           | 0%           | NO PROFILE      |
@@ -110,6 +110,7 @@ Want bleeding edge tooling? Check out the [Releases](https://github.com/FMTDev/F
 [![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
+
 
 
 
