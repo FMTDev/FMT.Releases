@@ -39,8 +39,7 @@ Want bleeding edge tooling? Check out the [Releases](https://github.com/FMTDev/F
 - [CSharpImageLibrary](https://github.com/KFreon/CSharpImageLibrary) - Exceptionally helpful in creating a library for importing/exporting in game images & textures
 
 ## Supported Games
-
-**24th March 2025: FMT is going through a major restructure and architecture process. This is so it can become a more open suite of Nuget Packages to enable other developers to make their own tools. As a consequence of this, some games will either lose support entirely or be supported again in the future. See this list below to know which release will work for your game**
+Please be aware some game support was deprecated. See the notes field for more information.
 
 | Game         | Platform     | Supported    | Notes           |
 |--------------|--------------|--------------|-----------------|
@@ -110,6 +109,7 @@ Want bleeding edge tooling? Check out the [Releases](https://github.com/FMTDev/F
 [![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
+
 
 
 
