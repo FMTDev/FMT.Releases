@@ -52,8 +52,8 @@ Please be aware some game support was deprecated. See the notes field for more i
 | FC 25        | Switch       | 50%          | EXPERIMENTAL    |
 | FC 25        | PS4          | 50%          | EXPERIMENTAL    |
 | FC 26        | PC           | 50%          | WORK IN PROGRESS |
-| FC 26        | PS4          | 0%           | Unlikely due to New AntiTamper |
-| FC 26        | Switch       | 0%           | Unlikely due to New AntiTamper |
+| FC 26        | PS4          | 0%           | Unlikely due to New Anti-Tamper |
+| FC 26        | Switch       | 0%           | Unlikely due to New Anti-Tamper |
 | FIFA 17      | PC           | 50%          | EXPERIMENTAL    |
 | FIFA 18      | PC           | 0%           | NO PROFILE      |
 | FIFA 19      | PC           | 0%           | NO PROFILE      |
@@ -94,11 +94,23 @@ Please be aware some game support was deprecated. See the notes field for more i
 | FMT.Resources   | https://www.nuget.org/packages/FMT.Resources/ | | [![Download FMT.Resources](https://img.shields.io/nuget/dt/FMT.Resources?style=for-the-badge)](https://www.nuget.org/packages/FMT.Resources/) |
 | FMT.ServicesManagers   | https://www.nuget.org/packages/FMT.ServicesManagers/ | | [![Download FMT.ServicesManagers](https://img.shields.io/nuget/dt/FMT.ServicesManagers?style=for-the-badge)](https://www.nuget.org/packages/FMT.ServicesManagers/) |
 
-## Open Source Plugins
+## Open Source Projects
+
+| Name         | GitHub Url |
+|--------------|--------------|
+| FMT.Hash | https://github.com/FMTDev/FMT.Hash |
+| FMT.Registry | https://github.com/FMTDev/FMT.Registry |
+| FMT.Madden26Plugin | https://github.com/FMTDev/FMT.Madden26Plugin |
+
+## Open Source Game Profile Plugins
 
 | Name         | GitHub Url |
 |--------------|--------------|
 | FMT.Madden26Plugin | https://github.com/FMTDev/FMT.Madden26Plugin |
+
+## Where is the source code?
+
+The source code for this project is a mixture of closed and open source projects, please see the (Open Source Projects) for the open source projects. This project is compiled and deployed using GitHub actions within the main closed source project.
 
 ## Video Tutorials
 
@@ -109,6 +121,7 @@ Please be aware some game support was deprecated. See the notes field for more i
 [![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
 
 #FrostbiteModdingTool #FrostbiteEngine #GameModding #ModdingTool #Gaming #GameDevelopment #FrostbiteMods #ModdingCommunity #OpenSource #GitHub
+
 
 
 
