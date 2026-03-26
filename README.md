@@ -51,7 +51,7 @@ Please be aware some game support was deprecated. See the notes field for more i
 | FC 25        | PC           | 100%         |                 |
 | FC 25        | Switch       | 50%          | EXPERIMENTAL    |
 | FC 25        | PS4          | 50%          | EXPERIMENTAL    |
-| FC 26        | PC           | 50%          | WORK IN PROGRESS |
+| FC 26        | PC           | 100%         | |
 | FC 26        | PS4          | 0%           | Unlikely due to New Anti-Tamper |
 | FC 26        | Switch       | 0%           | Unlikely due to New Anti-Tamper |
 | FIFA 17      | PC           | 50%          | EXPERIMENTAL    |
@@ -101,6 +101,7 @@ Please be aware some game support was deprecated. See the notes field for more i
 | FMT.Hash | https://github.com/FMTDev/FMT.Hash |
 | FMT.Registry | https://github.com/FMTDev/FMT.Registry |
 | FMT.Madden26Plugin | https://github.com/FMTDev/FMT.Madden26Plugin |
+| FMT.FifaAttribDbAppPlugin | https://github.com/FMTDev/FMT.FifaAttribDbAppPlugin |
 
 ## Open Source Game Profile Plugins
 
