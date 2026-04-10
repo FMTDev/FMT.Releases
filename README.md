@@ -26,15 +26,12 @@ The Frostbite Modding Tool (FMT) is a tool that has been in development since 20
 This tool enables you to modify game assets, graphics, font, text and tweak gameplay mechanics to generate mod files to use within the in-built mod manager. It supports the 
 deployments to multiple platforms including PC (with Registry Support for game detection), Playstation 4 and Nintento Switch.
 
-Don't forget to star Frostbite Modding Tool on GitHub. Stay updated with the latest releases and enhancements by following the repository and [join the Discord server](https://discord.gg/zAUc6eHVS3).
-
-## Releases and Pre-Releases
-Want bleeding edge tooling? Check out the [Releases](https://github.com/FMTDev/FMT.Releases/releases) link to find all releases available including Pre-Releases (Beta).
+Don't forget to star Frostbite Modding Tool on GitHub. Stay updated with the latest releases and enhancements by following the repository and [join the Discord server](https://discord.gg/TmdjJFEGgr).
 
 ## Credits
 - EA Sports & DICE - Without their engine and suite of games, this tool and the addiction to modding them wouldnt exist. Many thanks to all those who develop it and Frostbite!
 - [@CadeEvs / Frosty Toolsuite](https://github.com/CadeEvs/FrostyToolsuite) development team. As of September 2022, Frosty Toolsuite is open source on [GitHub](https://github.com/CadeEvs/FrostyToolsuite) but seems to be unmaintained? I would recommend that tool for most older Frostbite games.
-- [FIFA Editor Tool](https://www.fifaeditortool.com/) development team. This tool adds support to compile to FIFA Mod Manager *.fifamod files.
+- [FIFA Editor Tool](https://www.fifaeditortool.com/) development team. This tool **unofficially** adds support to compile to FIFA Mod Manager *.fifamod files.
 - [DirectXTexNet](https://github.com/deng0/DirectXTexNet) - Used library and rewrote parts for latest Chunk File Collection texture import [LICENSE](https://raw.githubusercontent.com/deng0/DirectXTexNet/master/LICENSE)
 - [CSharpImageLibrary](https://github.com/KFreon/CSharpImageLibrary) - Exceptionally helpful in creating a library for importing/exporting in game images & textures
 
@@ -43,6 +40,10 @@ Please be aware some game support was deprecated. See the notes field for more i
 
 | Game         | Platform     | Supported    | Notes           |
 |--------------|--------------|--------------|-----------------|
+| BATTLEFIELD 1| PC           | 0%           |  |
+| BATTLEFIELD 4| PC           | 0%           |  |
+| BATTLEFIELD 5| PC           | 0%           |  |
+| BATTLEFIELD 6| PC           | 0%           |  |
 | Dead Space   | PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | Dragon Age:VG| PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | FC 24        | PC           | 100%         |                 |
@@ -115,8 +116,11 @@ The source code for this project is a mixture of closed and open source projects
 
 ## Video Tutorials
 
-### Installing Mods
+### How to Install Mods for FC 25
 [![Watch the video](https://img.youtube.com/vi/Z-OLVsXOwyY/maxresdefault.jpg)](https://youtu.be/Z-OLVsXOwyY)
+
+### How to Install Mods for FC 26
+[![Watch the video](https://img.youtube.com/vi/ejoSjDPUSEM/maxresdefault.jpg)](https://youtu.be/ejoSjDPUSEM)
 
 ### Making your own Mods for FC 25
 [![Watch the video](https://img.youtube.com/vi/2r7jW2PU81M/maxresdefault.jpg)](https://youtu.be/2r7jW2PU81M)
