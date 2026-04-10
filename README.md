@@ -24,7 +24,7 @@ The Frostbite Modding Tool (FMT) is a tool that has been in development since 20
 ## Summary
 
 This tool enables you to modify game assets, graphics, font, text and tweak gameplay mechanics to generate mod files to use within the in-built mod manager. It supports the 
-deployments to multiple platforms including PC (with Registry Support for game detection), Playstation 4 and Nintento Switch.
+deployments to multiple platforms including PC (with Registry Support for game detection), Playstation 4 (PS4), Playstation 5 (PS5) and Nintento Switch.
 
 Don't forget to star Frostbite Modding Tool on GitHub. Stay updated with the latest releases and enhancements by following the repository and [join the Discord server](https://discord.gg/TmdjJFEGgr).
 
