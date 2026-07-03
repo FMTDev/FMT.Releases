@@ -106,9 +106,9 @@ Please be aware some game support was deprecated. See the notes field for more i
 
 ## Open Source Game Profile Plugins
 
-| Name         | GitHub Url |
-|--------------|--------------|
-| FMT.Madden26Plugin | https://github.com/FMTDev/FMT.Madden26Plugin |
+| Name               | GitHub Url   | Extra Info |
+|--------------------|--------------|------------|
+| FMT.Madden26Plugin | https://github.com/FMTDev/FMT.Madden26Plugin | Madden 26, Madden 27, College Football 27 |
 
 ## Where is the source code?
 
