@@ -44,6 +44,7 @@ Please be aware some game support was deprecated. See the notes field for more i
 | BATTLEFIELD 4| PC           | 0%           |  |
 | BATTLEFIELD 5| PC           | 0%           |  |
 | BATTLEFIELD 6| PC           | 0%           |  |
+| CFB 27       | PC           | 50%          | READ-ONLY [PRO Edition Only until Full Release] |
 | Dead Space   | PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | Dragon Age:VG| PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | FC 24        | PC           | 100%         |                 |
@@ -55,6 +56,7 @@ Please be aware some game support was deprecated. See the notes field for more i
 | FC 26        | PC           | 100%         | |
 | FC 26        | PS4          | 0%           | Unlikely due to New Anti-Tamper |
 | FC 26        | Switch       | 0%           | Unlikely due to New Anti-Tamper |
+| FC 27        | PC           | 50%          | READ-ONLY [PRO Edition Only until Full Release] |
 | FIFA 17      | PC           | 50%          | EXPERIMENTAL    |
 | FIFA 18      | PC           | 0%           | EXPERIMENTAL    |
 | FIFA 19      | PC           | 0%           | NO PROFILE      |
@@ -68,6 +70,7 @@ Please be aware some game support was deprecated. See the notes field for more i
 | MADDEN 24    | PC           | 0%           | NO PROFILE      |
 | MADDEN 25    | PC           | 0%           | NO PROFILE      |
 | MADDEN 26    | PC           | 50%          | WORK IN PROGRESS - [Plugin is Open Source](https://github.com/FMTDev/FMT.Madden26Plugin) |
+| MADDEN 27    | PC           | 50%          | READ-ONLY [PRO Edition Only until Full Release] |
 | NFS Unbound  | PC           | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | NHL 22       | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | NHL 23       | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
