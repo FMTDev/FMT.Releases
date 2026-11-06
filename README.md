@@ -50,20 +50,18 @@ Please be aware some game support was deprecated. See the notes field for more i
 | FC 24        | PC           | 100%         |                 |
 | FC 24        | Switch       | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
 | FC 24        | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.17.9240.24186)    |
-| FC 25        | PC           | 100%         |                 |
-| FC 25        | Switch       | 50%          | EXPERIMENTAL    |
-| FC 25        | PS4          | 50%          | EXPERIMENTAL    |
+| FC 25        | PC           | 100%         | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-26.10.9654.14105)    |
+| FC 25        | Switch       | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-26.10.9654.14105)    |
+| FC 25        | PS4          | 50%          | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-26.10.9654.14105)    |
 | FC 26        | PC           | 100%         | |
-| FC 26        | PS4          | 0%           | Unlikely due to New Anti-Tamper |
-| FC 26        | Switch       | 0%           | Unlikely due to New Anti-Tamper |
-| FC 27        | PC           | 50%          | READ-ONLY [PRO Edition Only until Full Release] |
+| FC 27        | PC           | 100%         | READ-ONLY [PRO Edition Only until Full Release] |
 | FIFA 17      | PC           | 50%          | EXPERIMENTAL    |
-| FIFA 18      | PC           | 0%           | EXPERIMENTAL    |
+| FIFA 18      | PC           | 25%          | EXPERIMENTAL    |
 | FIFA 19      | PC           | 0%           | NO PROFILE      |
 | FIFA 20      | PC           | 0%           | NO PROFILE      |
-| FIFA 21      | PC           | 100%         | DISCONTINUED - [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.14.9170.27631)                |
+| FIFA 21      | PC           | 100%         | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.14.9170.27631)                |
 | FIFA 22      | PC           | 75%          | NO MESH SUPPORT |
-| FIFA 23      | PC           | 100%         | DISCONTINUED - [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.14.9170.27631)                |
+| FIFA 23      | PC           | 100%         | [Last supported release](https://github.com/FMTDev/FMT.Releases/releases/tag/FMT-25.14.9170.27631)                |
 | MADDEN 21    | PC           | 0%           | NO PROFILE       |
 | MADDEN 22    | PC           | 0%           | NO PROFILE      |
 | MADDEN 23    | PC           | 0%           | NO PROFILE      |
